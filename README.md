@@ -1,5 +1,5 @@
 # canvas
-Scripts for dealing with specific issues on Canvas
+Scripts for dealing with specific group management issues on Canvas
 
 # Requirements
 * A token generated for our account on Canvas (`/profile/settings`)
